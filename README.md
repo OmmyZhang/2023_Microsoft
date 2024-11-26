@@ -1,3 +1,7 @@
+This is our solution for MIT iQuHACK 2023 Microsoft Challenge. We got 1st Place in this challenge. https://www.iquise.mit.edu/iQuHACK/2023-01-27
+
+---
+
 # Welcome to the Microsoft Challenge @ MIT iQuHACK 2023!
 
 ## Challenge overview
